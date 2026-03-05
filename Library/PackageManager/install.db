@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "7cd44775a6dc",
+        "mtime": 1772716384450,
+        "size": 139976826,
+        "localPath": "D:\\z-Project\\Unity\\VRGraduate_2\\Packages\\com.ptc.vuforia.engine-10.22.5.tgz"
+      }
+    }
+  }
+}
