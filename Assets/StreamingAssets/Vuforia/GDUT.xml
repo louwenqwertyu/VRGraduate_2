@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="scene" size="0.400000 0.225800" />
+    <ImageTarget name="buiding" size="0.400000 0.600000" />
+    <ImageTarget name="7b80a931c4b70a2f2729b0ae5e872471" size="0.400000 0.224090" />
+    <ImageTarget name="a11" size="0.400000 0.400000" />
+    <ImageTarget name="girl" size="0.400000 0.266667" />
+    <ImageTarget name="b" size="0.400000 0.300000" />
+    <ImageTarget name="wuyang" size="0.400000 0.599203" />
+    <ImageTarget name="anim" size="0.400000 0.400000" />
+    <ImageTarget name="a1" size="0.400000 0.285714" />
+  </Tracking>
+</QCARConfig>

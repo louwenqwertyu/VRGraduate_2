@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FCP_ExampleScript" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAACAAAAAAAAAAAAAAAACAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\FlexibleColorPicker\ExampleScene\FCP_ExampleScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FCP_Persistence" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABgAAAAAACAAAAAABAAIAAAAAAAEAIAMKAIAAACEA=</HashCode>
+      <FileName>Assets\FlexibleColorPicker\Scripts\FCP_Persistence.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FCP_SpriteMeshEditor" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAAAAAIAAAAAAAABAAAAAAAIBgAAAAACA=</HashCode>
+      <FileName>Assets\FlexibleColorPicker\Scripts\FCP_SpriteMeshEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlexibleColorPicker" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="FlexibleColorPicker.Picker" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\FlexibleColorPicker\Scripts\FlexibleColorPicker.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="FlexibleColorPicker.PickerType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\FlexibleColorPicker\Scripts\FlexibleColorPicker.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="FlexibleColorPicker.MainPickingMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\FlexibleColorPicker\Scripts\FlexibleColorPicker.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="FlexibleColorPicker.ColorUpdateEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\FlexibleColorPicker\Scripts\FlexibleColorPicker.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="FlexibleColorPicker.AdvancedSettings" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\FlexibleColorPicker\Scripts\FlexibleColorPicker.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="FlexibleColorPicker.BufferedColor" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\FlexibleColorPicker\Scripts\FlexibleColorPicker.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gYbIAGIC8BBUAATAggAQqQEWBSAAAEeAAygABxwsiGg=</HashCode>
+      <FileName>Assets\FlexibleColorPicker\Scripts\FlexibleColorPicker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CanvasControl">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAAAABgCCACAAAAIAAgICUAQQAABQAAAIEQAEAEgI=</HashCode>
+      <FileName>Assets\Scripts\CanvasControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CanvasPosControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAIAAIAAAQAAAADAAAAAQggAAAABAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\CanvasPosControl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CompareVideo" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAggAAAAAAAAABAAQAAAAQAAACAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CompareVideo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTargetControl" Collapsed="true">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAAEAAAACAAAAAACAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ImageTargetControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Painter">
+    <Position X="7.25" Y="2" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAQAAABAASAAAgAAAAAACAICgAAAAgBAJEgIAAHCQAg=</HashCode>
+      <FileName>Assets\Scripts\Painter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SliderEvent" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAIAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SliderEvent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Vedio">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQABEEAECAAEAAAAIAgABAACEAgEAQAkAoAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vedio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
